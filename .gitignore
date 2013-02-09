@@ -1,0 +1,25 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# annoying Eclipse stuff
+.metadata/
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# any log files
+*.log
+
+# any cache files
+*.cache

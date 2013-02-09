@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">voteTrax</string>
+    <string name="increment_button_txt">++</string>
+    <string name="decrement_button_txt">--</string>
+    <string name="points">5</string>
+
+</resources>
